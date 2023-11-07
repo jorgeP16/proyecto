@@ -1,0 +1,81 @@
+body{
+    background: url(fondo4.jpg) ;
+    background-size: cover;
+    color: white;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    backdrop-filter: brightness(30%);
+}
+
+h1.l1{
+    color: rgb(231, 0, 0);
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h3.l2{
+    color: rgb(231, 0, 0);
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p.l3{
+    color: rgb(38, 0, 255);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3.l4{
+    color: rgb(231, 0, 0);
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p.l5{
+    color: rgb(38, 0, 255);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3.l6{
+    color: rgb(231, 0, 0);
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p.l7{
+    color: rgb(38, 0, 255);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+} 
+h3.l8{
+    color: rgb(231, 0, 0);
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+} 
+p.l9{
+    color: rgb(38, 0, 255);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+} 
+h3.l10{
+    color: rgb(231, 0, 0);
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+} 
+p.l11{
+    color: rgb(38, 0, 255);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+} 
+h3.l12{
+    color: rgb(231, 0, 0);
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p.l13{
+    color: rgb(38, 0, 255);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}

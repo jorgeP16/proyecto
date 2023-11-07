@@ -1,0 +1,67 @@
+body{
+    background: url(fer.jpg) ;
+    background-size: cover;
+    color: white;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    backdrop-filter: brightness(30%);
+}
+
+h1.l1{
+    color: rgb(0, 168, 247);
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p.l2{
+    color: rgb(255, 238, 0);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3.l3{
+    color: rgb(0, 168, 247);
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p.l4{
+    color: rgb(255, 238, 0);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+} 
+p.l5{
+    color: rgb(255, 238, 0);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+} 
+p.l6{
+    color: rgb(255, 238, 0);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+} 
+p.l7{
+    color: rgb(255, 238, 0);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+} 
+h3.l8{
+    color: rgb(0, 168, 247);
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p.l9{
+    color: rgb(255, 238, 0);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+} 
+p.l10{
+    color: rgb(255, 238, 0);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p.l11{
+    color: rgb(255, 238, 0);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
